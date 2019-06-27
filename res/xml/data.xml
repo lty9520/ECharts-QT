@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="页-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name>连接线</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>流程图</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="16" UniqueID="{741E9726-EE7E-45BC-B54F-B28AB9BF4C8D}" Name="外部实体 1" NameU="External entity 1" Master="19">
+					<Text>120</Text>
+					<XForm>
+						<PinX Unit="MM">5.924212598425197</PinX>
+						<PinY Unit="MM">5.413385826771654</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>持续时间</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value Unit="STR">0</Value>
+						<Label>资源</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="17" UniqueID="{8AE76EEF-B9E8-4061-9116-CB1C19440E68}" Name="流程(圆形).17" NameU="Process (circle).17" Master="19">
+					<Text>you</Text>
+					<XForm>
+						<PinX Unit="MM">4.232283464566930</PinX>
+						<PinY Unit="MM">3.641732283464568</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>持续时间</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value Unit="STR">120</Value>
+						<Label>资源</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="18" UniqueID="{ECE3DB0F-834E-4F4D-9A6C-BBDB08E88777}" Name="流程(圆形).18" NameU="Process (circle).18" Master="19">
+					<Text>he</Text>
+					<XForm>
+						<PinX Unit="MM">7.616141732283465</PinX>
+						<PinY Unit="MM">3.641732283464567</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>持续时间</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value Unit="STR">120</Value>
+						<Label>资源</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="19" UniqueID="{E44CCB1C-F461-4BC5-9346-E78F9055A8C5}" Name="流程(圆形).19" NameU="Process (circle).19" Master="19">
+					<Text>me</Text>
+					<XForm>
+						<PinX Unit="MM">5.924212598425197</PinX>
+						<PinY Unit="MM">3.641732283464568</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>持续时间</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value Unit="STR">120</Value>
+						<Label>资源</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="20" UniqueID="{FD7ED2E5-C653-4132-9AB6-567820F3F4FD}" Name="动态连接线" NameU="Dynamic connector" Master="18">
+					<XForm>
+						<PinX Unit="MM">4.904255221164730</PinX>
+						<PinY Unit="MM">4.599629236912762</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="21" UniqueID="{F52DFB4F-6D0F-4A91-82F3-DE529786AD08}" Name="动态连接线.21" NameU="Dynamic connector.21" Master="18">
+					<XForm>
+						<PinX Unit="MM">5.924212598425197</PinX>
+						<PinY Unit="MM">4.527559055118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="22" UniqueID="{74656A27-7DCA-4D08-9185-4A41A9941587}" Name="动态连接线.22" NameU="Dynamic connector.22" Master="18">
+					<XForm>
+						<PinX Unit="MM">6.944169975685664</PinX>
+						<PinY Unit="MM">4.599629236912761</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{96AD6F8D-129F-422D-B631-19271C94EAF6}" Name="流程(圆形).0" NameU="Process (circle).0" Master="0">
+					<Text>1</Text>
+					<XForm>
+						<PinX Unit="MM">2.540354330708662</PinX>
+						<PinY Unit="MM">2.145669291338582</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>持续时间</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value Unit="STR">you</Value>
+						<Label>资源</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="24" UniqueID="{0A7C712F-2C10-4CC9-AF11-D567C94A202C}" Name="流程(圆形).24" NameU="Process (circle).24" Master="0">
+					<Text>2</Text>
+					<XForm>
+						<PinX Unit="MM">4.232283464566930</PinX>
+						<PinY Unit="MM">2.145669291338582</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>持续时间</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value Unit="STR">you</Value>
+						<Label>资源</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="25" UniqueID="{8A2B3F64-1AF9-4846-871E-24E8F78E51FF}" Name="流程(圆形).25" NameU="Process (circle).25" Master="0">
+					<Text>3</Text>
+					<XForm>
+						<PinX Unit="MM">5.924212598425197</PinX>
+						<PinY Unit="MM">2.145669291338582</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>持续时间</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value Unit="STR">you</Value>
+						<Label>资源</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{4F442490-568B-4CFE-A910-D25CAE1E3BBF}" Name="动态连接线.26" NameU="Dynamic connector.26" Master="18">
+					<XForm>
+						<PinX Unit="MM">3.386318897637796</PinX>
+						<PinY Unit="MM">2.893700787401575</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="27" UniqueID="{18905227-9B06-444A-B973-F29E8C5945EA}" Name="动态连接线.27" NameU="Dynamic connector.27" Master="18">
+					<XForm>
+						<PinX Unit="MM">4.232283464566930</PinX>
+						<PinY Unit="MM">2.893700787401575</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="28" UniqueID="{07F7C3D5-4FA2-440A-BBB3-9FB1A3F1F35F}" Name="动态连接线.28" NameU="Dynamic connector.28" Master="18">
+					<XForm>
+						<PinX Unit="MM">5.078248031496063</PinX>
+						<PinY Unit="MM">2.893700787401575</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
